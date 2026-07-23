@@ -2189,5 +2189,14 @@
       <itunes:duration>01:06:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב מאיר אליהו ｜ ירושלים לפני מלחמה ｜ יזדים</title>
+      <description>הרב מאיר אליהו ｜ ירושלים לפני מלחמה ｜ יזדים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-meir-eliyahu-shiurim/%D7%94%D7%A8%D7%91%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%90%D7%9C%D7%99%D7%94%D7%95%20%EF%BD%9C%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%20%D7%9C%D7%A4%D7%A0%D7%99%20%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20%EF%BD%9C%20%D7%99%D7%96%D7%93%D7%99%D7%9D.mp3" length="70456359" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב מאיר אליהו ｜ ירושלים לפני מלחמה ｜ יזדים.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 08:08:44 -0000</pubDate>
+      <itunes:duration>01:13:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
