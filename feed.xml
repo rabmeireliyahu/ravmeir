@@ -3,7 +3,6 @@
   <channel>
     <title>Rab Meir Eliyahu - הרב מאיר אליהו</title>
     <description>שיעורי תורה, אמונה וביטחון, מוסר וחיזוק יומי מפי הרב מאיר אליהו שליט"א. פרשת שבוע, מועדי ישראל, עבודת ה' ותיקון המידות. שיעורים מלאים להאזנה חופשית - אוצר התורה.</description>
-    <itunes:summary>שיעורי תורה, אמונה וביטחון, מוסר וחיזוק יומי מפי הרב מאיר אליהו שליט"א. פרשת שבוע, מועדי ישראל, עבודת ה' ותיקון המידות. שיעורים מלאים להאזנה חופשית - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravmeir</link>
     <language>he</language>
     <itunes:author>הרב מאיר אליהו שליט״א</itunes:author>
@@ -2224,6 +2223,15 @@
       <guid isPermaLink="false">הרב מאיר אליהו ｜ צעירים מתוסכלים ｜ יזדים - ה׳תשפ״ו.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 20:16:40 -0000</pubDate>
       <itunes:duration>01:12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב מאיר אליהו ｜ שידוכים עד מתי？ ｜ משכן יהודה - ה׳תשפ״ו</title>
+      <description>הרב מאיר אליהו ｜ שידוכים עד מתי？ ｜ משכן יהודה - ה׳תשפ״ו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-meir-eliyahu-shiurim/%D7%94%D7%A8%D7%91%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%90%D7%9C%D7%99%D7%94%D7%95%20%EF%BD%9C%20%D7%A9%D7%99%D7%93%D7%95%D7%9B%D7%99%D7%9D%20%D7%A2%D7%93%20%D7%9E%D7%AA%D7%99%EF%BC%9F%20%EF%BD%9C%20%D7%9E%D7%A9%D7%9B%D7%9F%20%D7%99%D7%94%D7%95%D7%93%D7%94%20-%20%D7%94%D7%B3%D7%AA%D7%A9%D7%A4%D7%B4%D7%95.mp3" length="53947494" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב מאיר אליהו ｜ שידוכים עד מתי？ ｜ משכן יהודה - ה׳תשפ״ו.mp3</guid>
+      <pubDate>Sat, 01 Aug 2026 22:10:42 -0000</pubDate>
+      <itunes:duration>00:56:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
