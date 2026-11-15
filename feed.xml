@@ -2612,5 +2612,14 @@
       <itunes:duration>00:44:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב מאיר אליהו ｜ אישה קטלנית ｜ יזדים</title>
+      <description>הרב מאיר אליהו ｜ אישה קטלנית ｜ יזדים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-meir-eliyahu-shiurim/%D7%94%D7%A8%D7%91%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%90%D7%9C%D7%99%D7%94%D7%95%20%EF%BD%9C%20%D7%90%D7%99%D7%A9%D7%94%20%D7%A7%D7%98%D7%9C%D7%A0%D7%99%D7%AA%20%EF%BD%9C%20%D7%99%D7%96%D7%93%D7%99%D7%9D.mp3" length="41162181" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב מאיר אליהו ｜ אישה קטלנית ｜ יזדים.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 20:14:51 -0000</pubDate>
+      <itunes:duration>01:09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
