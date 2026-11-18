@@ -2621,5 +2621,14 @@
       <itunes:duration>01:09:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב מאיר אליהו ｜ פרשת ויצא ｜ יזדים</title>
+      <description>הרב מאיר אליהו ｜ פרשת ויצא ｜ יזדים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-meir-eliyahu-shiurim/%D7%94%D7%A8%D7%91%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%90%D7%9C%D7%99%D7%94%D7%95%20%EF%BD%9C%20%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%95%D7%99%D7%A6%D7%90%20%EF%BD%9C%20%D7%99%D7%96%D7%93%D7%99%D7%9D.mp3" length="40101885" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב מאיר אליהו ｜ פרשת ויצא ｜ יזדים.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 18:45:27 -0000</pubDate>
+      <itunes:duration>01:12:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
